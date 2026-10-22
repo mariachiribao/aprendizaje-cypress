@@ -1,0 +1,12 @@
+
+# Dependencias instaladas
+node_modules/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno con datos sensibles
+.env
+.env.*
+!.env.example
