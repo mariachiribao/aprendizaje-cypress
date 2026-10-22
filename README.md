@@ -1,5 +1,22 @@
 # Proyecto de Automatización QA con Cypress
 
+
+## 🛠️ Tech Stack
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🧪 Testing
+
+- Functional testing
+- Form validation
+- Positive and negative test cases
+- Test evidence: screenshots and video
+
 ## Descripción
 
 Proyecto de práctica de **Quality Assurance (QA)** enfocado en la automatización de pruebas funcionales utilizando Cypress y JavaScript.
